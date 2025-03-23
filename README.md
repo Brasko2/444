@@ -35,7 +35,7 @@ Telegram бот для продажи и управления VPN-подписк
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/vpn-bot.git
+git clone https://github.com/Brasko2/444.git
 cd vpn-bot
 ```
 
